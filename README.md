@@ -36,10 +36,6 @@
 ![startProject](https://user-images.githubusercontent.com/96730744/197644537-27ffa0a6-4350-495f-883b-154ead8c3013.png)
 
 + Установите расширение для Visual Studio.
-+ Клонирование проекта: 
-```
-    git clone https://github.com/Stanislavcod/WPFEmployee.git
-```
 + Откройте src\Booking.sln в Visual Studio, чтобы создать и запустить приложение __Employee__.
 + Для запуска тестов пользовательского интерфейса необходимо убедиться, что установлен драйвер приложения Windows (WinAppDriver).
 
