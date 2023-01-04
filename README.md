@@ -45,10 +45,3 @@
 
 
 
-
-## Илюстрация работы приложения
-
-https://user-images.githubusercontent.com/96730744/206060200-fd35b6a4-1d4f-4168-939d-9623f4ac4c4b.mp4
-
-
-
